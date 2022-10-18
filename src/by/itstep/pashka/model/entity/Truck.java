@@ -1,4 +1,6 @@
-package by.itstep.pashka.model.entity.abstracts;
+package by.itstep.pashka.model.entity;
+
+import by.itstep.pashka.model.entity.abstracts.Transport;
 
 public class Truck extends Transport {
     public Truck() {

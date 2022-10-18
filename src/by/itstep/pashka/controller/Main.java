@@ -3,7 +3,7 @@ package by.itstep.pashka.controller;
 import by.itstep.pashka.model.entity.Bus;
 import by.itstep.pashka.model.entity.Car;
 import by.itstep.pashka.model.entity.abstracts.Transport;
-import by.itstep.pashka.model.entity.abstracts.Truck;
+import by.itstep.pashka.model.entity.Truck;
 import by.itstep.pashka.model.logic.GasStation;
 
 public class Main {
